@@ -11,7 +11,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
-        <hornetq.version>2.3.25.sp9.Final</hornetq.version>
+        <hornetq.version>2.3.25.Final</hornetq.version>
         <netty.version>3.6.10.Final</netty.version>
     </properties>
     
